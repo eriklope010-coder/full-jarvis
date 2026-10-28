@@ -1,0 +1,12 @@
+JARVIS PARA IPHONE - MATEMÁTICAS SIN IA
+
+1. Extrae este ZIP.
+2. Sube TODOS los archivos a la raíz de tu repositorio GitHub Pages, reemplazando los anteriores.
+3. Abre la web desde Safari y, si la versión anterior sigue apareciendo, cierra la pestaña y vuelve a abrirla. Puede ser necesario borrar los datos de ese sitio para actualizar la caché.
+
+NUEVO: mates.js. Es el motor de matemáticas local. No requiere servidor ni clave API.
+Ejemplos: "cuánto es el 15 por ciento de 240", "9 por 9", "raíz cuadrada de 81", "5 elevado a 3", "20% de 50".
+
+LIMITACIONES: no resuelve cualquier problema matemático redactado en lenguaje natural ni problemas complejos arbitrarios. Sí resuelve las operaciones y patrones programados. Los cálculos se hacen en el navegador.
+
+APPS: los botones inferiores y el comando "abre Spotify" intentan abrir la app instalada mediante enlaces de iOS. Algunos esquemas pueden no estar disponibles o Safari puede bloquearlos. Las apps deben estar instaladas. No se puede forzar desde una web que todas las aplicaciones se abran directamente.
